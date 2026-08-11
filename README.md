@@ -101,10 +101,7 @@ Contributions are welcome! Feel free to fork this repository, make your changes,
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is open source and available for educational purposes. Add a license of your choice (e.g., MIT) if you plan to distribute it.
-
+ 
 ## 👤 Author
 
 **Rohit Garudkar**
